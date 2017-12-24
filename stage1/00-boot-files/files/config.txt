@@ -60,4 +60,3 @@ dtoverlay=enc28j60
 
 # Enable UART
 enable_uart=1
-
