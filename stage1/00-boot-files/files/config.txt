@@ -54,3 +54,10 @@ dtparam=spi=on
 
 # Enable audio (loads snd_bcm2835)
 # dtparam=audio=on
+
+# Ethernet ENC28J60 overlay
+dtoverlay=enc28j60
+
+# Enable UART
+enable_uart=1
+
